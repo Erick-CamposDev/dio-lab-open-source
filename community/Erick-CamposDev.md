@@ -15,7 +15,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecno
 
 ## 📌 Objetivos
 
-- Publicar os primeiros projetos seja em Python, Godot ou front-expandi
+- Publicar os primeiros projetos seja em Python, Godot ou front-end
 - Contribuir com projetos open-source
 - Estagiar na área de desenvolvimento
 - Evoluir como programador full stack e/ou gamedev
